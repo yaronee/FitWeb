@@ -15,7 +15,7 @@
   
         <!-- Image -->
         <div class="flex-1 flex justify-center lg:justify-end h-[650px] w-48">
-          <img src="/tibo.png" alt="Coach Tibo" class="w-full rounded-lg shadow-xl object-cover">
+          <img src="/img/tibo.png" alt="Coach Tibo" class="w-full rounded-lg shadow-xl object-cover">
         </div>
        
       </div>

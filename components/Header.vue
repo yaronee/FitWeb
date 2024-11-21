@@ -1,6 +1,6 @@
 <template>
   
-  <header class="py-4 bg-black sticky top-0 z-20">
+  <header class="py-4 bg-neutral-900 sticky top-0 z-20">
     <div class="container mx-auto flex justify-between items-center">
       <div class="flex">
         <span class="text-4xl font-secondary font-bold text-white">Fit</span>

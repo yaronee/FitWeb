@@ -1,7 +1,7 @@
 <template>
   <Header />
 
-  <main class="bg-black">
+  <main class="bg-neutral-900">
     <Hero/>
 
     <Badge :number="'500+'" :description="'Vidéos gratuites'" :bgColor="'bg-orange-500'" :rightPosition="'right-[100px]'" :bottomPosition="'bottom-[150px]'" />
@@ -14,8 +14,9 @@
 
     <Testimony/>
 
-      
+    <AboutSection/>
 
-    
+    <AboutSection/>
+
   </main>
 </template>
