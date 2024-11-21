@@ -2,8 +2,8 @@
   <div class="container mx-auto flex flex-col lg:flex-row items-center justify-center space-y-8 lg:space-y-0 lg:space-x-4">
   <!-- Texte -->
     <div class="flex-1 text-center lg:text-left flex flex-col items-center lg:items-start justify-center">
-          <h1 class="text-[6rem] font-bold tracking-tight text-white leading-tight">
-             COACHE, MAIS JAMAIS DÉPRIMÉ !
+          <h1 class="text-6xl font-bold tracking-tight text-white leading-tight">
+             COACHÉ, MAIS JAMAIS DÉPRIMÉ !
           </h1>
           <p class="mt-6 sm:text-sm text-gray-400 font-sans font-medium">
             Un coach sportif qui allie efficacité et bonne humeur pour vous faire transpirer de rire !

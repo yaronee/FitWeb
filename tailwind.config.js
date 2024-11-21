@@ -13,4 +13,13 @@ module.exports = {
     plugins: [],
   }
   
-  
+  // tailwind.config.js
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        paleGreen: '#f8ffc2', // Ajoutez votre couleur ici
+      },
+    },
+  },
+};

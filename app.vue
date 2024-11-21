@@ -16,7 +16,14 @@
 
     <AboutSection/>
 
-    <AboutSection/>
+    <Excuse/>
+
+    <Contact/>
+
+    <Cta/>
+
+    <Footer/> 
+
 
   </main>
 </template>

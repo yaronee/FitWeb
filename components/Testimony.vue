@@ -2,10 +2,9 @@
 
     <section class="bg-neutral-900	text-white py-12">
         
-          <h2 class="text-4xl font-bold text-center mb-8">Ils sont passés entre les mains de Max (et ont survécu) !</h2>
+          <h2 class="text-4xl font-bold text-center mb-4">Ils sont passés entre les mains de Max (et ont survécu) !</h2>
           <p class="text-center text-gray-400 mb-12">
             Parce qu’après chaque séance, c’est soit la fierté, soit les courbatures qui parlent.
-
           </p>
           
           <div class="flex flex-wrap justify-center gap-6">
@@ -23,7 +22,7 @@
             />
     
             <TestymonyCard 
-              :name="'Clara'"  
+              :name="'Tibo'"  
               :text="'Grâce à Max, je peux enfin ouvrir les bocaux de cornichons tout seul. Un coach qui change des vies !'" 
               :img="'/img/perso2.jpeg'" 
             />
