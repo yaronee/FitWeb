@@ -9,10 +9,10 @@
       <nav>
         <ul class="flex space-x-6 text-sm font-medium font-sans">
           <li><a href="#" class="text-gray-400">Accueil</a></li>
-          <li><a href="#" class="text-gray-400">Témoignages</a></li>
-          <li><a href="#about" class="text-gray-400 ">Qui suis-je ?</a></li>
-          <li><a href="#" class="text-gray-400">Générateur d’excuses</a></li>
-          <li><a href="#" class="text-gray-400">Contact</a></li>
+          <li><a href="#Testymony" class="text-gray-400">Témoignages</a></li>
+          <li><a href="#aboutSection" class="text-gray-400 ">Qui suis-je ?</a></li>
+          <li><a href="#Excuse" class="text-gray-400">Générateur d’excuses</a></li>
+          <li><a href="#Contact" class="text-gray-400">Contact</a></li>
         </ul>
       </nav>
     </div>

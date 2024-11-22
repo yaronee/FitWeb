@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col items-center justify-center p-12 bg-neutral-900 text-white rounded-lg shadow-lg">
+    <div id="Excuse" class="flex flex-col items-center justify-center p-12 bg-neutral-900 text-white rounded-lg shadow-lg">
       <h2 class="text-4xl font-bold text-center mb-4">Générateur d'excuses pour éviter le sport</h2>
       <p class="text-center text-gray-400 mb-12 w-[70%]">
           T'as la flemme d'aller t'entraîner ? Utilise mon générateur d'excuses pour trouver l'excuse ultime pour eviter ton entraînement (avec modération pour des gros bibis)

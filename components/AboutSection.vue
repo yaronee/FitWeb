@@ -1,5 +1,5 @@
 <template>
-  <div id="about" >
+  <div id="aboutSection" >
     <About
       :title="'Qui suis-je ?'"
       :description="'Salut, moi c’est Max ! Coach sportif et ancien comédien, je mélange sport et humour pour te faire transpirer avec le sourire. Mon objectif : te motiver à fond tout en rendant chaque séance fun et mémorable. Pour moi, progresser, c’est bien, mais si on peut rigoler en même temps, c’est encore mieux  !'"

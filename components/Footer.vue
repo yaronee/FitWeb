@@ -26,10 +26,10 @@
   const navigation = {
     main: [
       { name: 'Accueil', href: '#' },
-      { name: 'Confiance', href: '#/Testimony' },
+      { name: 'Confiance', href: '#Testymony' },
       { name: 'Qui suis-je ?', href: '#AboutSection' },
-      { name: 'Générateur d’excuses', href: '#' },
-      { name: 'Contact', href: '#Contact.vue' },
+      { name: 'Générateur d’excuses', href: '#Excuse' },
+      { name: 'Contact', href: '#Contact' },
     
     ],
     social: [
