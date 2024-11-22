@@ -19,7 +19,7 @@
               Max te guide à travers des séances de sport fun, motivantes et pleines d’humour. Prêt à transpirer avec le sourire ?
             </p>
             <div class="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
-              <a href="/contact" class="rounded-md bg-black px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-400">
+              <a href="#Contact" class="rounded-md bg-black px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-400">
                 Réserve ta séance maintenant !
               </a>
               

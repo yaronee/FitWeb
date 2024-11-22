@@ -62,7 +62,7 @@
                 name="message"
                 id="message"
                 rows="4"
-                placeholder="Je voudr"
+                placeholder="Je voudrais un coahing pour..."
                 required
                 class="block w-full rounded-md border-0 px-3.5 py-2 text-black shadow-sm ring-1 ring-inset ring-gray-500 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-lime-400 sm:text-sm"
               ></textarea>
